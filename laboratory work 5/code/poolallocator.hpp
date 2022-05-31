@@ -7,8 +7,8 @@
 #include <vector>
 #include <memory>
 
-#define CHUNKS_BY_DEFAULT 15l
-#define SIZE_BY_DEFAULT 1l
+#define CHUNKS_BY_DEFAULT 100l
+#define SIZE_BY_DEFAULT 4l
 #define LOGGING false
 
 namespace customalloc {
